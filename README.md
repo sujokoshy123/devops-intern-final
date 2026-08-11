@@ -11,9 +11,8 @@ Docker, CI/CD (GitHub Actions), job orchestration with Nomad, and log monitoring
 Grafana Loki. Each step below produces a real artifact that feeds into the next step,
 simulating a small but realistic DevOps workflow.
 
-[![CI](https://github.com/<your-username>/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/devops-intern-final/actions/workflows/ci.yml)
+[![CI](https://github.com/sujokoshy123/devops-intern-final/actions/workflows/ci.yml/badge.svg)](https://github.com/sujokoshy123/devops-intern-final/actions/workflows/ci.yml)
 
-> Replace `<your-username>` above with your actual GitHub username so the badge and link work.
 
 ---
 
